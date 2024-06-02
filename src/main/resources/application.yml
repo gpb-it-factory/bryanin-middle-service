@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: "bryanin-middle-service"
+
+backend-service:
+  baseURL: "http://0.0.0.0:8083"
+
+server:
+  port: 8082
